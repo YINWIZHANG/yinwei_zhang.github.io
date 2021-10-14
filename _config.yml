@@ -85,7 +85,7 @@ author:
   bio              : "(He/Him)"
   location         : "Tucson, Arizona"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "zhangyinwei@email.arizona.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,18 +103,18 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yinwei-zhang/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #orcid            :
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : 
+  #steam            :
+  #tumblr           :
+  #twitter          :
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :
 
 
 # Reading Files
