@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Engineering Management, The University of Arizona, 2018
-* * M.S. in Statistics, The University of Arizona, 2022
+* M.S. in Statistics, The University of Arizona, 2022
 * Ph.D in Industrial Engineering, The University of Arizona, 2022 (expected)
 
 Work experience
