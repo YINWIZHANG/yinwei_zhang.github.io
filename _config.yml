@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+# Site Settings
 locale                   : "en-US"
-title                    : "Yinwei Zhang's Website"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yinwei Zhang"
-description              : &description "I am self-motivated, persevering and curious to the unknown knowledge. I am a intern of robotics research group in ABB and the main task is to apply deep learning algorithms to robots and evaluate their performances under different environments. My research with my advisor Dr.Jian Liu in University of Arizona is related with spatial and temporal data analysis."
-url                      : https://yinwei_zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YINWIZHANG/yinwei_zhang.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +41,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "zhangyinwei@email.arizona.edu"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
