@@ -18,25 +18,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan, 2020 - Aug, 2021: Research Intern in Robotics
+  * ABB, North Carolina
+  * Supervisor: Dr.Biao Zhang, Dr.Jianjun Wang  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -49,12 +34,28 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+ * Investigation of Curing Process Heterogeneity from Raman Spectrum via CP Decomposition
+   * INFORMS Annual Meeting
+   * Virtual, Nov, 2020
+  
+ * Functional Data Analytics for Detecting Bursts in Water Distribution Systems
+   * INFORMS Annual Meeting
+   * Seattle, Oct, 2019
+  
+ * Effective and Efficient Moving Object Detection by a Moving Camera
+   * INFORMS Annual Meeting 
+   * Phoenix, Oct, 2019
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+* Teaching assistance in SIE 506 Quality Engineering
+* Teaching assistance in SIE 533 Fundamentals of Data Science for Engineers
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Sept 2021 - Present: Vice Presidentt
+  * INFORMS Student Chapter in University of Arizona
+  * Supervisor: Dr.Jianqiang Cheng
