@@ -1,11 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "SIE 406/506 Quality Engineering"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate/graduate course"
+venue: "The University of Arizona, Systems and Industrial Engineering Dept"
+location: "Tucson, Arizona"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
