@@ -51,6 +51,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ 
 * Teaching assistance in SIE 506 Quality Engineering
 
 * Teaching assistance in SIE 533 Fundamentals of Data Science for Engineers
