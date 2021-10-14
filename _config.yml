@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinwei Zhang / CV"
+title                    : "Yinwei Zhang's Website"
 title_separator          : "-"
 name                     : &name "Yinwei Zhang"
-description              : &description "personal description"
+description              : &description "I am self-motivated, persevering and curious to the unknown knowledge. I am a intern of robotics research group in ABB and the main task is to apply deep learning algorithms to robots and evaluate their performances under different environments. My research with my advisor Dr.Jian Liu in University of Arizona is related with spatial and temporal data analysis."
 url                      : https://yinwei_zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YINWIZHANG/yinwei_zhang.github.io"
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yinwei Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "(He/Him)"
+  location         : "Tucson, Arizona"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "zhangyinwei@email.arizona.edu"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  #facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "YINWIZHANG"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yinwei-zhang/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
