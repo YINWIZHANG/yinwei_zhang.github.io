@@ -21,19 +21,9 @@ Work experience
 * Jan, 2020 - Aug, 2021: Research Intern in Robotics
   * ABB, North Carolina
   * Supervisor: Dr.Biao Zhang, Dr.Jianjun Wang  
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+======  
  * Investigation of Curing Process Heterogeneity from Raman Spectrum via CP Decomposition
    * INFORMS Annual Meeting
    * Virtual, Nov, 2020
@@ -48,10 +38,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
+
 * Teaching assistance in SIE 506 Quality Engineering
 
 * Teaching assistance in SIE 533 Fundamentals of Data Science for Engineers
