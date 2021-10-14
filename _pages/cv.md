@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Engineering Management, The University of Arizona, 2018
+* * M.S. in Statistics, The University of Arizona, 2022
+* Ph.D in Industrial Engineering, The University of Arizona, 2022 (expected)
 
 Work experience
 ======
