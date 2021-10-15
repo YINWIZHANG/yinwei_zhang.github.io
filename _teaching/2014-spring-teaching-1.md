@@ -5,8 +5,8 @@ type: "Undergraduate/graduate course"
 venue: "The University of Arizona, Systems and Industrial Engineering Dept"
 location: "Tucson, Arizona"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+1. Introduce statistical tools and concepts that are useful for product/process quality improvements
+2. Demonstrate the procedures of implementation of the quality engineering tools in various applications
 
 Heading 1
 ======
