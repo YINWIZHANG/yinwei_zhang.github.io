@@ -11,15 +11,14 @@ collection: gallery
   - image_path: /images/sakura.jpg
     title: "Visit D.C."
     excerpt: "This photo is taken at D.C at March, 2021, during the cherry blossom."
----
 feature_row2:
   - image_path: /images/cat.jpg
     title: "Outdoor training for Sarabi"
     excerpt: "This photo is taken at North Carolina with Sarabi who is the cat of my roommate."
 feature_row3:
-  - image_path: /assets/images/Lightroom_JPEG_Exports/website-1070973-2.jpg
-    title: "backyard jungle"
-    excerpt: "This is the most narrowly defined series I've ever worked on. Each photo here was taken with a Panasonic GX85 and a Cosmicar 22.5-90mm Television lens at 90mm and f1.5. The way this lens transforms views of everyday plants into exotic, even alien, landscapes gave rise to the name of the collection."
+  - image_path: /images/star.jpg
+    title: "Star gazing at Mountain Lemon"
+    excerpt: "This photo is taken in May, 2019, at Mt. Lemon"
 feature_row4:
   - image_path: /assets/images/Lightroom_JPEG_Exports/mcm1130529.jpg
     title: "Subjectively Objective Submission"
