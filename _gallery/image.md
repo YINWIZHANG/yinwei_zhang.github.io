@@ -1,5 +1,5 @@
 ---
-title: Photography
+title: Gallery
 layout: splash
 author_profile: false
 header:
