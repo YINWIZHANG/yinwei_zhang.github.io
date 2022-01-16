@@ -11,10 +11,11 @@ collection: gallery
   - image_path: /images/sakura.jpg
     title: "Visit D.C."
     excerpt: "This photo is taken at D.C at March, 2021, during the cherry blossom."
+---
 feature_row2:
-  - image_path: /assets/images/Lightroom_JPEG_Exports/website-1060632.jpg
-    title: "Saint John's University"
-    excerpt: "These photos from SJU, where I went to undergrad, and surrounding areas were taken during several trips back to campus after moving to California for grad school."
+  - image_path: /images/cat.jpg
+    title: "Outdoor training for Sarabi"
+    excerpt: "This photo is taken at North Carolina with Sarabi who is the cat of my roommate."
 feature_row3:
   - image_path: /assets/images/Lightroom_JPEG_Exports/website-1070973-2.jpg
     title: "backyard jungle"
