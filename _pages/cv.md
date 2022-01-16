@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+excerpt: "<br/><pdf src='/resume.pdf'>"
 author_profile: true
 redirect_from:
   - /resume
