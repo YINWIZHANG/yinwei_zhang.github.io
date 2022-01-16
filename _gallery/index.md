@@ -2,10 +2,6 @@
 title: Gallery
 layout: splash
 author_profile: false
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.05"
-  overlay_image: /images/Lightroom_JPEG_Exports/website-1070067-2.jpg
 feature_row:
 collection: gallery
   - image_path: /images/sakura.jpg
