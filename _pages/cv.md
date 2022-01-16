@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechanical Engineering, Jinchu University of Technology, 2016
 * M.S. in Engineering Management, The University of Arizona, 2018
-* M.S. in Statistics, The University of Arizona, 2022
+* M.S. in Statistics, The University of Arizona, 2022 (expected)
 * Ph.D in Industrial Engineering, The University of Arizona, 2022 (expected)
 
 Work experience
@@ -46,6 +46,6 @@ Teaching
   
 Service and leadership
 ======
-* Sept 2021 - Present: Vice Presidentt
+* Sept 2021 - Present: Presidentt
   * INFORMS Student Chapter in University of Arizona
   * Supervisor: Dr.Jianqiang Cheng
