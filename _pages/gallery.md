@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Gallery"
+title: ""
 permalink: /gallery/
 author_profile: true
+
 ---
 
 Visit D.C.
