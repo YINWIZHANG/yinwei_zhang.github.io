@@ -13,36 +13,29 @@ Location: Raleigh, NC
 
 
 
-Anomaly Detection in Water Distribution Systems
-====
-Position: reseach assistant
-
-Location: The University of Arizona.
-
-More information about this project can be found at [here](https://uawds.github.io)
-
-
-Anomaly Detection in Water Distribution Systems
+[Anomaly Detection in Water Distribution Systems](https://uawds.github.io)
 ====
 Position: reseach assistant
 
 Location: The University of Arizona.
 
 
-
-Teaching Asistant for SIE 406/506 Quality Engineering
+DDDAMS-based Border Surveillance System via UVs and Hybrid Simulations
 ====
 Position: reseach assistant
 
-Location: The University of Arizona
-
-More information about this course can be found at [here](https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE406-506_Syllabus_Liu_S21_2.pdf)
+Location: The University of Arizona.
 
 
-Teaching Asistant for SIE 433/533 Fundamentals of Data Science for Engineers
+[SIE 406/506 Quality Engineering](https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE406-506_Syllabus_Liu_S21_2.pdf)
 ====
-Position: Reseach Assistant
+Position: teaching assistant
 
 Location: The University of Arizona
 
-More information about this course can be found [here](https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE-433-533-Syllabus-Fall-2019_0.pdf)
+
+[SIE 433/533 Fundamentals of Data Science for Engineers](https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE-433-533-Syllabus-Fall-2019_0.pdf)
+====
+Position: teaching assistant
+
+Location: The University of Arizona
