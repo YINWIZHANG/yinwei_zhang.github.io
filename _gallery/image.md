@@ -20,9 +20,9 @@ feature_row3:
     title: "Star gazing at Mountain Lemon"
     excerpt: "This photo is taken in May, 2019, at Mt. Lemon"
 feature_row4:
-  - image_path: /assets/images/Lightroom_JPEG_Exports/mcm1130529.jpg
-    title: "Subjectively Objective Submission"
-    excerpt: "This is a series of images I submitted to [subjectively objective](https://subjectivelyobjective.com/)'s Investigations in Infrastructure book/gallery project. I think they make for a small but cohesive collection in their own right."
+  - image_path: /images/white_sand.jpg
+    title: "Roadtrip from eastern coast to western coast"
+    excerpt: "This photo is taken in May, 2021, at white sand national park."
 ---
 
 {% include feature_row type="left" %}
