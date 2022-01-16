@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,13 +11,16 @@ Undergraduate/graduate course
 
 The University of Arizona, Systems and Industrial Engineering Dept
 
-The course
-1. introduces statistical tools and concepts that are useful for product/process quality improvements,
-2. demonstrates the procedures of implementation of the quality engineering tools in various applications.
-
+The course teaches students to
+1. Develop a control chart for monitoring continuous and discrete quality characteristics. 
+2. Design acceptance-sampling plans,
+3. Assess statistical process capability,
+4. Implement CUSUM and EWMA charts,
+5. Establish specific plan for short production run, 
+6. Assess product specifications and tolerances.  
 
 SIE 433/533 Fundamentals of Data Science for Engineers
-===
+====
 Undergraduate/graduate course
 
 The University of Arizona, Systems and Industrial Engineering
@@ -28,5 +31,3 @@ This course  will  provide senior undergraduate  and  graduate  students  from  
 2. theoretical basis and advances in data  science,
 3. modeling  and algorithms,
 4. evaluation  mechanisms. 
-
-The emphasis  in  the  treatment of these topics  will  be  given  to  the  breadth,  rather  than  the  depth. Real-world  engineering problems  and  data  will  be  used  as  examples to  illustrate  and  demonstrate  the  advantages  and disadvantages  of  different  algorithms  and  compare  their  effectiveness  as  well  as  efficiency,and  help students to understand and identify the circumstances under which the algorithms are most ap
