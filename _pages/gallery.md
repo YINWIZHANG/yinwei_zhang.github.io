@@ -14,7 +14,7 @@ This photo is taken at D.C at March, 2021, during the cherry blossom. I drove 5 
 
 Outdoor training for Sarabi
 =======
-Saribi is a domestic middle hair who is curious about everything. This photo is taken at North Carolina when she was in an outdoor training.
+Sarabi is a domestic middle hair who is curious about everything. This photo is taken at North Carolina when she was in an outdoor training.
 
 ![image-center](/images/cat.jpg)
 
