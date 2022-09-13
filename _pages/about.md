@@ -12,7 +12,7 @@ About me
 ======
 Welcome to my personal website!
 
-My name Yinwei Zhang. I am a Ph.D. candidate at the University of Arizona majoring in Industrial Engineering. The University of Arizona locates at Tucson, south-western America. The weather is super dry and the temperature is crazy here during the summer , so we don't have many green trees but Saguaro here.   
+My name Yinwei Zhang. I am a Ph.D. candidate at the University of Arizona majoring in Industrial Engineering. The University of Arizona locates at Tucson, south-western America. The weather is super dry and the temperature is crazy here during the summer , so we don't have many green trees but saguaro cactus here.   
 
 I have been studying in the University of Arizona for 7 years. I first came here as a master's student in the department of Systems and Industrial Engineering. This department is famous for its operation reseach and quality engineering. After I got my master degree, I started to persue my Ph.D degree in Industrial Engineering. During my Ph.D. career, I focused on spatial-temporal modeling and anomaly detection in high dimensional data by using statistics and machine learning knowledge. Since my research area is closely related to statistics, I pursued another master's degree in the Department of Statistics and Data Science since 2020. In this August (Aug/2022), I passed the qualifying exam with a Ph.D. level pass held by the Department of Statistics and Data Science and I am expected to get my second master degree in the winter (Dec/2022). 
 
