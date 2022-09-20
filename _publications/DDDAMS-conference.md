@@ -1,5 +1,5 @@
 ---
-title: "Design and development of a DDDAMS-based border surveillance system via UVs and hybrid simulations"
+title: "Design and Development of A DDDAMS-based Border Surveillance System via UVs and Hybrid Simulations"
 collection: publications
 date: 2019-8-15
 venue: 'Conference'
