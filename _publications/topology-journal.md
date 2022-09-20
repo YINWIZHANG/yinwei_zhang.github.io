@@ -1,5 +1,5 @@
 ---
-title: "A partition and microstructure based method applicable to large-scale topology optimization"
+title: "A Partition and Microstructure based Method Applicable to Large-scale Topology Optimization"
 collection: publications
 date: 2022-3-15
 venue: 'Journal'
