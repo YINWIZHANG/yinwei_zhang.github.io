@@ -18,7 +18,7 @@ I have been studying in the University of Arizona for 7 years. I first came here
 
 **About my internship**
 
-From Jan/2021 to Aug/2022, I worked as a ***research scientist intern*** in ABB, Raleigh. The main tasks for me were applying deep learning algorithms in real world industrial applications by using TensorFlow and PyTorch. At the beginning of the internship, due to the pandemic, obstacles occurred as we have limited data and limited hardware resources. However, with the help from my project manager, we began to make significant progress. I rotated between two research groups for different applications and contribute to the teams. At the end of the internship, the achievements I made were summarized into several patents which are now under filing.
+From Jan/2020 to Aug/2021, I worked as a ***research scientist intern*** in ABB, Raleigh. The main tasks for me were applying deep learning algorithms in real world industrial applications by using TensorFlow and PyTorch. At the beginning of the internship, due to the pandemic, obstacles occurred as we have limited data and limited hardware resources. However, with the help from my project manager, we began to make significant progress. I rotated between two research groups for different applications and contribute to the teams. At the end of the internship, the achievements I made were summarized into several patents which are now under filing.
 
 After my internship, I came back to the campus. Now, I am working on several projects such as evaluating the safety of the autonomous vehicle and detecting anomalies in videos. I am also actively working on my dissertation.
 
