@@ -46,3 +46,8 @@ Location: the University of Arizona
 Position: teaching assistant
 
 Location: the University of Arizona
+
+
+[CVPR 1st Data Challenge on Vision-based Industrial Inspection]([https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE-433-533-Syllabus-Fall-2019_0.pdf](https://vision-based-industrial-inspection.github.io/cvpr-2023/))
+====
+Position: Organizer
