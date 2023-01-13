@@ -13,7 +13,7 @@ Location: Raleigh, NC, United States
 
 Service
 === 
-### Organizer of [CVPR 1st Data Challenge on Vision-based Industrial Inspection]([https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE-433-533-Syllabus-Fall-2019_0.pdf](https://vision-based-industrial-inspection.github.io/cvpr-2023/))
+### Organizer of **[CVPR 1st Data Challenge on Vision-based Industrial Inspection](https://vision-based-industrial-inspection.github.io/cvpr-2023/)**
 Location: Vancouver, Canada
 
 ### President of INFORMS Student Chapter
