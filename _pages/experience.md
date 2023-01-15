@@ -11,7 +11,7 @@ Internship
 Location: Raleigh, NC, United States
 
 
-Service
+Service and Outreach
 === 
 ### Organizer of **[CVPR 1st Data Challenge on Vision-based Industrial Inspection](https://vision-based-industrial-inspection.github.io/cvpr-2023/)**,  Canada
 
@@ -23,8 +23,6 @@ Service
 
 ### Teaching assistant of [SIE 433/533 Fundamentals of Data Science for Engineers](https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE-433-533-Syllabus-Fall-2019_0.pdf) at the University of Arizona
 
-Projects
-===
 
 ### Research assistant of [Anomaly Detection in Water Distribution Systems](https://uawds.github.io) at the University of Arizona
 
