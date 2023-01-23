@@ -26,3 +26,12 @@ Research assistant of [Anomaly Detection in Water Distribution Systems](https://
 
 
 Research assistant of DDDAMS-based Border Surveillance System via UVs and Hybrid Simulations at the University of Arizona
+
+Project
+=== 
+[Burst Detection for Sensor System](https://github.com/yinwei-zhang/rnn-burst-detection)
+
+[Image-based Anomaly Segmentation](https://github.com/yinwei-zhang/autoencoder-anomaly)
+
+[Creadit Card Fraud Detection](https://github.com/yinwei-zhang/credit_card_fraud_detection)
+
