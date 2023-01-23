@@ -12,7 +12,7 @@ Research scientist intern at ABB, Raleigh, NC
 
 Service and Outreach
 === 
-Organizer of **[CVPR 1st Data Challenge on Vision-based Industrial Inspection](https://vision-based-industrial-inspection.github.io/cvpr-2023/)**,  Canada
+Organizer of [CVPR 1st Data Challenge on Vision-based Industrial Inspection](https://vision-based-industrial-inspection.github.io/cvpr-2023/),  Canada
 
 President of INFORMS Student Chapter at the University of Arizona
 
