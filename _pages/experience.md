@@ -7,14 +7,14 @@ author_profile: true
 
 Internship
 ===
-Research scientist intern at ABB, Raleigh, NC
+Research scientist intern at ABB, Raleigh, NC, Jan, 2020 - Aug, 2021
 
 
 Service and Outreach
 === 
-Organizer of [CVPR 1st Data Challenge on Vision-based Industrial Inspection](https://vision-based-industrial-inspection.github.io/cvpr-2023/),  Canada
+Organizer of [CVPR 1st Data Challenge on Vision-based Industrial Inspection](https://vision-based-industrial-inspection.github.io/cvpr-2023/),  Canada, 2023
 
-President of INFORMS Student Chapter at the University of Arizona
+President of INFORMS Student Chapter at the University of Arizona, Aug, 2021 - Aug, 2023
 
 Teaching assistant of [SIE 406/506 Quality Engineering](https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/syllabus/SIE406-506_Syllabus_Liu_S21_2.pdf) at the University of Arizona
 
