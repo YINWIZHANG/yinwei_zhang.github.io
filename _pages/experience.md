@@ -7,7 +7,9 @@ author_profile: true
 
 Internship
 ===
-Research scientist intern at ABB, Raleigh, NC, Jan, 2020 - Aug, 2021
+Machine learning engineer at CVS, Hartford, CT, May, 2023 - Aug, 2023
+
+Research scientist at ABB, Raleigh, NC, Jan, 2020 - Aug, 2021
 
 
 Service and Outreach
@@ -29,9 +31,12 @@ Research assistant of DDDAMS-based Border Surveillance System via UVs and Hybrid
 
 Project
 === 
-[Burst Detection for Sensor System](https://github.com/yinwei-zhang/rnn-burst-detection)
 
-[Image-based Anomaly Segmentation](https://github.com/yinwei-zhang/autoencoder-anomaly)
+[Robust Unsupervised Video Foreground Segmentation via Context-Aware Bayesian Tensor Factorization](https://github.com/AlexXsh/PBRTF)
 
-[Creadit Card Fraud Detection](https://github.com/yinwei-zhang/credit_card_fraud_detection)
+[Burst Detection for Sensor System](https://github.com/super-zyw/rnn-burst-detection)
+
+[Image-based Anomaly Segmentation](https://github.com/super-zyw/autoencoder-anomaly)
+
+[Creadit Card Fraud Detection](https://github.com/super-zyw/credit_card_fraud_detection)
 
